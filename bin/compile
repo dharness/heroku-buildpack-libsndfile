@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 echo "-----& Installing libsndfile with apt-get"
 
-sudo apt-get install libsndfile
+sudo apt-get install libsndfile1
